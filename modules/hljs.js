@@ -1,5 +1,3 @@
-const html = `<link rel="stylesheet" href="./styles/default.min.css">`;
-document.head.insertAdjacentHTML("beforeend", html);
 /* Highlight.js v11.6.0 */
 export var hljs=function(){"use strict";var e={exports:{}};function t(e){
     return e instanceof Map?e.clear=e.delete=e.set=()=>{
